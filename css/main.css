@@ -1,0 +1,25 @@
+    .text1 {
+        width: 1440px;
+        padding: 30px;
+    }
+    
+    .text1-1 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .tex1-2 ul {
+        display: flex;
+        column-gap: 40px;
+        list-style: none;
+    }
+    
+    .text2-1 {
+        width: 1280px;
+        height: 720px;
+        background-image: url(../images/IMAGE.jpg);
+    }
+    
+    .text2 {
+        padding-left: 140px;
+    }
